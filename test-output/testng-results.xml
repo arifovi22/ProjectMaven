@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="18416" started-at="2020-03-01T15:38:13 EST" finished-at="2020-03-01T15:38:31 EST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="18416" started-at="2020-03-01T15:38:13 EST" finished-at="2020-03-01T15:38:31 EST">
+      <class name="allTest.HomepageTest">
+        <test-method status="PASS" signature="testDeals(java.lang.String)[pri:0, instance:allTest.HomepageTest@30b8a058]" name="testDeals" duration-ms="18373" started-at="2020-03-01T15:38:13 EST" finished-at="2020-03-01T15:38:31 EST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testDeals -->
+      </class> <!-- allTest.HomepageTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
